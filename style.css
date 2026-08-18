@@ -1,0 +1,23 @@
+h2{
+  color: aqua;
+}
+
+.text{
+  color: blue;
+  background-color: aquamarine;
+  font-size: 50px;
+}
+
+.rasm{
+  width: 500px;
+  height: 400px;
+  border-radius: 30px;
+}
+
+.box{
+  border: 3px double black;
+  border-radius: 20px;
+  width: 200px;
+  height: 200px;
+}
+
